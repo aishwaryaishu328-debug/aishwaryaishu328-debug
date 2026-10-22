@@ -1,36 +1,33 @@
-<!-- ================================================================= -->
-<!--                    ISWARYA P - GITHUB PROFILE                      -->
-<!--       B.Tech CSE (AI & ML) | Aspiring Software Engineer            -->
-<!-- ================================================================= -->
-
 <div align="center">
 
-  <!-- HERO BANNER (Midnight Navy / Electric Violet / Cyan) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=220&section=header&text=Iswarya%20P&fontSize=48&fontAlignY=36&animation=fadeIn&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%E2%80%A2%20Aspiring%20Software%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Iswarya P Banner" />
+  <!-- ==================== HERO SECTION ==================== -->
+  <h1>⚡ Iswarya P</h1>
+  <p><b>B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)</b><br>
+  <i>Sreenivasa Institute of Technology and Management Studies (SITAMS), Chittoor</i></p>
 
-  <!-- DYNAMIC ANIMATED TYPING INTRODUCTION -->
+  <!-- ANIMATED TYPING TAGLINE (Reliable & Lightweight CDN) -->
   <a href="https://github.com/aishwaryaishu328-debug">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&lines=B.Tech+CSE+(AI+%26+ML)+Student+%40+SITAMS%2C+Chittoor;Aspiring+Software+Engineer+%40+Product+Tech+Companies;Web+Development+%E2%80%A2+AI-Assisted+Workflows+%E2%80%A2+DSA;%22Learn+continuously.+Build+meaningfully.+Create+impact.%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer+%E2%80%A2+Product+Technology;Web+Development+%E2%80%A2+AI-Assisted+Workflows+%E2%80%A2+DSA;%22Learn+continuously.+Build+meaningfully.+Create+impact.%22" alt="Typing Tagline" />
   </a>
 
-  <br />
+  <br><br>
 
   <!-- QUICK CREDENTIAL STATUS PILLS -->
-  <p align="center">
+  <p>
     <img src="https://img.shields.io/badge/Institution-SITAMS%20Chittoor-0D1117?style=flat-square&logo=googlescholar&logoColor=00F2FE" alt="Institution" />
     <img src="https://img.shields.io/badge/Specialization-AI%20%26%20Machine%20Learning-0D1117?style=flat-square&logo=tensorflow&logoColor=8B5CF6" alt="Specialization" />
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20DSA%20%7C%20AI%20Tools-0D1117?style=flat-square&logo=codeforces&logoColor=EC4899" alt="Focus" />
-    <img src="https://img.shields.io/badge/Goal-Software%20Engineering-0D1117?style=flat-square&logo=target&logoColor=00F2FE" alt="Goal" />
+    <img src="https://img.shields.io/badge/Focus-Web%20Dev%20%7C%20DSA%20%7C%20AI%20Tools-0D1117?style=flat-square&logo=codeforces&logoColor=EC4899" alt="Focus" />
+    <img src="https://img.shields.io/badge/Target-Software%20Engineering-0D1117?style=flat-square&logo=target&logoColor=00F2FE" alt="Target" />
   </p>
 
-  <!-- VERIFIED SOCIAL & PROFILE LINKS -->
-  <p align="center">
+  <!-- VERIFIED DIRECT PROFILE LINKS -->
+  <p>
     <a href="https://www.linkedin.com/in/iswarya-p-/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect%20%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
-    &nbsp;
-    <a href="https://github.com/aishwaryaishu328-debug">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    &nbsp;&nbsp;
+    <a href="https://github.com/aishwaryaishu328-debug" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Follow%20%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
   </p>
 
@@ -38,92 +35,162 @@
 
 ---
 
-### 💫 Executive Summary & About Me
+### 👩‍💻 About Me
 
-```yaml
-Name: Iswarya P
-Degree: Bachelor of Technology (B.Tech)
-Major: Computer Science & Engineering (Artificial Intelligence & Machine Learning)
-Institution: Sreenivasa Institute of Technology and Management Studies (SITAMS), Chittoor
-Target Role: Software Engineer (SWE) | Product Engineering
-Core Motto: "Learn continuously. Build meaningfully. Create impact."
-Hello! I am a computer science undergraduate specializing in Artificial Intelligence & Machine Learning at SITAMS, Chittoor. I bridge software engineering fundamentals with modern web development while actively leveraging AI-assisted developer environments to accelerate execution speed and maintain code quality.
+I am a computer science undergraduate specializing in **Artificial Intelligence & Machine Learning** at **SITAMS, Chittoor**. I have a strong foundation in core computer science, a passion for building clean, user-friendly web applications, and an active interest in **AI-assisted developer workflows** that accelerate modern software delivery.
 
-🎓 Academic Foundation: Immersed in core computer science principles, discrete mathematics, and AI/ML algorithms at SITAMS.
-💻 Hands-on Engineering: Building structured user-facing applications, mastering responsive UI layouts, and deploying cloud-hosted projects on Vercel.
-🤖 AI-Augmented Development: Utilizing modern tools like Google Antigravity and GitHub Copilot to explore advanced prompt-driven software development and rapid prototyping.
-📈 Continuous Expansion: Actively sharpening Data Structures & Algorithms, Python, Java, C++, and SQL via the NxtWave CCBP 4.0 Full Stack Web Development track.
-🛠️ Technical Arsenal & Tools
-🌐 Web & Frontend Development
+- 🎓 **Academics:** Studying core computer science, algorithms, discrete structures, and applied AI/ML at SITAMS.
+- 🌐 **Web Development:** Creating responsive, accessible frontends using HTML5, CSS3, and JavaScript, with deployments on Vercel.
+- ⚡ **AI-Assisted Engineering:** Leveraging tools like **Google Antigravity** and **GitHub Copilot** for rapid prototyping, prompt-driven iteration, and streamlined development.
+- 🚀 **Career Aspirations:** Working toward software engineering roles at top-tier product technology companies through disciplined problem-solving and hands-on building.
 
-⚡ Development Workflow & Tooling
+---
 
-🧠 AI-Assisted Development & Workflows
+### 🛠️ Technical Skills
 
-📚 Current Learning Tracks (Actively Developing)
+<div align="center">
 
-🚀 Featured Engineering Projects
-A showcase of real project implementations and architectural concepts pointing directly to active repositories under @aishwaryaishu328-debug.
+#### 🌐 Web Development & Design
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=0B0F19" alt="Responsive Design" />
+</p>
 
-📅 Student Success Planner
-Target Problem: Students struggle to manage fragmented course timetables, exam deliverables, and assignment deadlines across separate channels, leading to poor time allocation and missed deadlines.
+#### 💻 Programming & Databases *(Foundations & Practice)*
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
+</p>
 
-Technical Solution: A unified web application concept designed to organize study schedules, visualize daily academic tasks, and streamline academic time management.
+#### ⚡ Workflow & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Deployment-00F2FE?style=for-the-badge&logo=cloudfoundry&logoColor=0B0F19" alt="Deployment" />
+</p>
 
-Technologies Used: HTML5 • CSS3 • Responsive UI
+#### 🧠 AI-Assisted Development
+<p>
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-8B5CF6?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Prompt--Based%20Dev-EC4899?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt-Based Dev" />
+  <img src="https://img.shields.io/badge/AI%20Coding%20Assistants-00DFD8?style=for-the-badge&logo=probot&logoColor=0B0F19" alt="AI Coding Assistants" />
+</p>
 
+</div>
 
-💼 Career Vault
-Target Problem: Early-career developers often scatter their certifications, target job roadmaps, project documentation, and resume artifacts across unorganized drives.
+---
 
-Technical Solution: A structured digital repository and portfolio hub designed to catalog career milestones, verified credentials, competencies, and technical project artifacts.
+### 📖 Continuous Learning & Development
 
-Technologies Used: HTML5 • CSS3 • JavaScript • Vercel Deployment
+I actively invest in expanding my full-stack engineering and algorithmic capabilities through structured training and daily practice:
 
+- 🎯 **NxtWave CCBP 4.0 — Full Stack Web Development** *(Ongoing Learning)*  
+  Intensive professional track mastering full-stack web architectures, backend scripting, relational databases, and enterprise development workflows.
+- 🧩 **Data Structures & Algorithms**  
+  Regular problem-solving focusing on arrays, strings, linked lists, recursion, and time-space complexity optimization.
+- ☕ **Object-Oriented Programming (C++ & Java)**  
+  Strengthening class design, encapsulation, inheritance, polymorphism, and memory management principles.
+- 🗄️ **Relational Databases & SQL**  
+  Hands-on schema design, multi-table queries, aggregation, and data normalization.
 
-🔍 ProofCue — AI Evidence Navigator
-Target Problem: Navigating dense documents to extract verifiable evidence and validate claims is slow and error-prone when using generic unstructured search.
+---
 
-Technical Solution: An AI evidence-navigation project concept engineered to explore how structured prompt cues and context navigation can trace claims back to primary source evidence.
+### 🚀 Featured Projects
 
-Technologies Used: AI Prompt Workflows • System Architecture • Project Concept
+Inspected from my active GitHub repositories under [`@aishwaryaishu328-debug`](https://github.com/aishwaryaishu328-debug).
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="left">💼 Career Vault</h3>
+      <p><b>Overview:</b> A personal career vault application for students to organize projects, certifications, achievements, competitions, workshops, links, and learning experiences in one place.</p>
+      <p><b>Tech Stack:</b> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Vercel</code></p>
+      <p>
+        <a href="https://github.com/aishwaryaishu328-debug/career-vault" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=flat-square&logo=github&logoColor=00F2FE" alt="Career Vault Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="left">🔍 ProofCue</h3>
+      <p><b>Overview:</b> An AI evidence-navigation project concept and web prototype exploring how structured prompt cues and context navigation help trace factual claims to verifiable evidence.</p>
+      <p><b>Tech Stack:</b> <code>AI Prompt Workflows</code> • <code>Web Prototype</code> • <code>Vercel</code></p>
+      <p>
+        <a href="https://github.com/aishwaryaishu328-debug/PROOFCUE" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=flat-square&logo=github&logoColor=00F2FE" alt="ProofCue Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="left">📅 Student Success Planner</h3>
+      <p><b>Overview:</b> <i>"Plan smarter. Achieve more."</i> A responsive web application designed to help university students organize daily academic tasks, study timetables, and assignment deadlines.</p>
+      <p><b>Tech Stack:</b> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code></p>
+      <p>
+        <a href="https://github.com/aishwaryaishu328-debug/student-success-planner" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=flat-square&logo=github&logoColor=00F2FE" alt="Student Success Planner Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-📊 Student Success Dashboard
-Target Problem: Student performance records and academic metrics are typically locked in static spreadsheets that lack intuitive visual representation.
+---
 
-Technical Solution: An interactive dashboard interface designed to present student indicators, course metrics, and progress summaries in a structured, accessible visual format.
+### 🏅 Certifications & Learning Programs
 
-Technologies Used: HTML5 • CSS3 • JavaScript • Dashboard UI
+| Program / Certification | Organization | Focus / Domain | Verification Status |
+| :--- | :--- | :--- | :---: |
+| **Tata GenAI Powered Data Analytics Job Simulation** | **Tata (Forage)** | Generative AI in business intelligence & data insights | Completed Simulation |
+| **Cloud Computing Fundamentals** | **Microsoft Learn** | Cloud architecture, scalability & shared responsibility | Completed Module |
+| **Cloud Service Types (IaaS, PaaS, SaaS)** | **Microsoft Learn** | Cloud service models & enterprise resource provisioning | Completed Module |
+| **Azure Cost Management & Governance** | **Microsoft Learn** | Cloud budgeting, resource alerts & financial governance | Completed Module |
+| **AI Tools & ChatGPT Workshop** | **Be10X** | Generative AI workflows & prompt engineering techniques | Workshop Completed |
+| **Internship Common Aptitude Test (ICAT)** | **ICAT Assessment** | Quantitative aptitude, logical & analytical reasoning | Assessment Qualified |
+| **Full Stack Web Development (CCBP 4.0)** | **NxtWave** | Comprehensive Full Stack Web Engineering Specialization | *Active Trainee (Ongoing)* |
 
+---
 
-🏅 Certifications & Structured Learning
-A verified record distinguishing completed industry simulations, cloud training, aptitude benchmarks, and ongoing technical programs.
+### 📊 Real-Time GitHub Analytics
 
-Program / Certification	Organization / Platform	Focus & Key Competencies	Status
-Tata GenAI Powered Data Analytics Job Simulation	Tata (Forage)	Generative AI application in data analysis, data storytelling, and business insights	Completed Simulation
-Cloud Computing Fundamentals	Microsoft Learn	Cloud architecture, core cloud concepts, high availability & fault tolerance	Completed Module
-Cloud Service Types (IaaS, PaaS, SaaS)	Microsoft Learn	Cloud deployment models, shared responsibility framework, resource provisioning	Completed Module
-Azure Cost Management & Governance	Microsoft Learn	Cloud financial management, pricing calculators, billing governance, and cost alerts	Completed Module
-AI Tools & ChatGPT Workshop	Be10X	Prompt engineering patterns, productivity acceleration, and generative AI toolchains	Workshop Completed
-Internship Common Aptitude Test (ICAT)	ICAT Assessment	Quantitative aptitude, logical deduction, and algorithmic analytical reasoning	Assessment Qualified
-Full Stack Web Development (CCBP 4.0)	NxtWave	Comprehensive professional track: Frontend, Backend, Databases, and Core CS	Active Trainee
-🎯 Current Learning & Growth Roadmap
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       CURRENT ENGINEERING FOCUS                             │
-├────────────────────────────────┬────────────────────────────────────────────┤
-│ 🧩 Data Structures & Algorithms │ Arrays, Strings, Linked Lists, Complexity   │
-│ ☕ Object-Oriented Programming │ Foundations in C++ and Java                │
-│ 🐍 Backend & Database Basics   │ Python Scripting & SQL Querying             │
-│ 🌐 Full-Stack Track (CCBP 4.0) │ Transitioning from Frontend to Full-Stack   │
-└────────────────────────────────┴────────────────────────────────────────────┘
-📊 Real-Time GitHub Activity & Analytics
-🤝 Connect & Collaborate
-I am open to software engineering internships, technical mentorship, and opportunities to collaborate on meaningful projects.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=aishwaryaishu328-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=8B5CF6&text_color=C9D1D9" alt="Iswarya's GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryaishu328-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9" alt="Iswarya's Most Used Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-  
+---
 
+### 🤝 Connect & Collaborate
 
-"Learn continuously. Build meaningfully. Create impact."
+I am always interested in discussing software engineering internships, technical collaborations, and mentorship opportunities.
 
+<div align="center">
 
+  <p>
+    <a href="https://www.linkedin.com/in/iswarya-p-/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/aishwaryaishu328-debug" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile" />
+    </a>
+  </p>
+
+  <p>
+    <i>"Learn continuously. Build meaningfully. Create impact."</i>
+  </p>
+
+</div>
