@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**aishwaryaishu328-debug/aishwaryaishu328-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
 # Hi, I'm Iswarya P 👋
 
 ### B.Tech CSE (AI & ML) Student | Aspiring Software Engineer
@@ -13,7 +10,21 @@ I'm a Computer Science student at SITAMS, Chittoor, interested in building usefu
 - 🤖 Exploring AI, Machine Learning, and Generative AI
 - 🚀 Interested in open-source contributions, hackathons, and software engineering
 - 🎯 Long-term goal: Build impactful products as a software engineer
+- 
+## 🎓 Learning & Professional Development
 
+### NxtWave CCBP 4.0 — Full Stack Development
+
+Currently learning and strengthening my technical skills through the CCBP 4.0 program.
+
+- 🌐 **Frontend Development:** HTML, CSS, JavaScript
+- 🐍 **Programming:** Python
+- 🗄️ **Database Management:** SQL
+- 🧠 **Problem Solving:** Data Structures & Algorithms
+- 💻 **Development Skills:** Building practical web applications
+- 🚀 **Career Development:** Applying technical concepts through projects and continuous practice
+
+*Status: Currently learning*
 ## 🛠️ Technical Skills
 
 **Programming:** Python, C++, JavaScript, Java, SQL  
