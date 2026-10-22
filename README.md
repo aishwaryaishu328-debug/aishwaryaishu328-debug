@@ -1,82 +1,85 @@
+# 👋 Hi, I'm Iswarya P
 
-# Hi, I'm Iswarya P 👋
+### 💻 CSE (AI & ML) Student | Aspiring Software Engineer
 
-### B.Tech CSE (AI & ML) Student | Aspiring Software Engineer
+🚀 Learning, building, and exploring technology to solve real-world problems.
 
-I'm a Computer Science student at SITAMS, Chittoor, interested in building useful software and exploring Artificial Intelligence.
-
-- 💻 Learning Python, C++, SQL, and Data Structures & Algorithms
-- 🌐 Building projects with web technologies
-- 🤖 Exploring AI, Machine Learning, and Generative AI
-- 🚀 Interested in open-source contributions, hackathons, and software engineering
-- 🎯 Long-term goal: Build impactful products as a software engineer
-- 
-## 🎓 Learning & Professional Development
-
-### NxtWave CCBP 4.0 — Full Stack Development
-
-Currently learning and strengthening my technical skills through the CCBP 4.0 program.
-
-- 🌐 **Frontend Development:** HTML, CSS, JavaScript
-- 🐍 **Programming:** Python
-- 🗄️ **Database Management:** SQL
-- 🧠 **Problem Solving:** Data Structures & Algorithms
-- 💻 **Development Skills:** Building practical web applications
-- 🚀 **Career Development:** Applying technical concepts through projects and continuous practice
-
-*Status: Currently learning*
-## 🛠️ Technical Skills
-
-**Programming:** Python, C++, JavaScript, Java, SQL  
-**Web Development:** HTML, CSS, JavaScript  
-**Tools:** Git, GitHub, VS Code  
-**Areas of Interest:** AI/ML, DSA, Web Development, Generative AI
-
-## 🚀 Featured Projects
-
-### Student Success Planner
-A web application concept for organizing study schedules and academic goals.
-
-### Career Vault
-A student-focused project for organizing career resources, projects, certifications, and achievements.
-
-### ProofCue
-An AI-focused project exploring how to guide users toward the evidence they need next.
-
-### Student Success Dashboard
-A dashboard project focused on student-related information and progress.
-
-> Add the actual repository links, screenshots, technologies, and features for each project before publishing.
-
-## 📜 Certifications & Learning
-
-- Tata — GenAI Powered Data Analytics Job Simulation
-- Microsoft Learn — Cloud Computing fundamentals
-- Microsoft Learn — Cloud Service Types
-- Microsoft Learn — Azure Cost Management
-- Be10X — AI Tools & ChatGPT Workshop
-- NxtWave CCBP 4.0 — Full Stack Web Development learning program
-
-## 🎓 Virtual Experience Programs
-
-- Tata — GenAI Data Analytics
-- JPMorgan Chase — Quant Research
-- Deloitte — Data Analytics
-
-*List each program only if completed or genuinely in progress, and link to the relevant certificate or completion record.*
-
-## 🌱 Currently Working On
-
-- Strengthening programming fundamentals and DSA
-- Improving existing projects and their documentation
-- Learning to build and deploy practical applications
-- Developing my skills through consistent hands-on practice
-
-## 🤝 Connect With Me
-
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/iswarya-p-/)
-- GitHub: [My GitHub Profile](https://github.com/aishwaryaisu328-debug)
+🎓 B.Tech in Computer Science & Engineering (AI & ML)  
+📚 Learning through **NxtWave CCBP 4.0**  
+🤖 Interested in Artificial Intelligence, Machine Learning, and software development.
 
 ---
 
-*Learn consistently. Build thoughtfully. Improve every day.*
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases & Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Student Success Planner
+A web application concept to help students organize their study schedules and learning tasks.
+
+**Tech:** HTML, CSS, JavaScript
+
+### 💼 Career Vault
+A career organization project for managing projects, achievements, certifications, and learning resources.
+
+**Tech:** JavaScript
+
+### 🤖 ProofCue
+An AI-powered evidence navigation project designed to help users understand what supporting evidence they need next.
+
+**Tech:** Next.js, Tailwind CSS, Gemini / Firebase AI Logic *(as implemented)*
+
+### 🌐 Student Success Dashboard
+A dashboard project for presenting student-related information.
+
+**Tech:** TypeScript
+
+---
+
+## 📜 Certifications & Learning
+
+- Tata — GenAI Powered Data Analytics Job Simulation (Forage)
+- Microsoft Learn — Cloud Computing
+- Microsoft Learn — Cloud Service Types
+- Microsoft Learn — Azure Cost Management
+- Be10X — AI Tools & ChatGPT Workshop
+- NxtWave CCBP 4.0 — Full Stack Web Development learning
+- Internship Common Aptitude Test (ICAT)
+
+---
+
+## 🌱 Current Focus
+
+- Strengthening Data Structures & Algorithms
+- Practising Python, C++, Java, and SQL
+- Building practical web and AI projects
+- Improving problem-solving and Git/GitHub skills
+- Preparing for software engineering opportunities
+
+---
+
+## 🤝 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/iswarya-p-/)
+
+---
+
+⭐ *Learn continuously. Build meaningfully. Create impact.*
